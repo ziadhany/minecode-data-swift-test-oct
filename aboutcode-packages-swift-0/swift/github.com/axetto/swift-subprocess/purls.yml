@@ -1,0 +1,4 @@
+- pkg:swift/github.com/axetto/swift-subprocess@0.1
+- pkg:swift/github.com/axetto/swift-subprocess@0.1.1
+- pkg:swift/github.com/axetto/swift-subprocess@0.1.1%5E%7B%7D
+- pkg:swift/github.com/axetto/swift-subprocess@development-snapshot-2025-07-21
