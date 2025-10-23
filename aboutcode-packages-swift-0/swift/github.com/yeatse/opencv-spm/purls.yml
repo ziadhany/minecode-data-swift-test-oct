@@ -1,0 +1,14 @@
+- pkg:swift/github.com/yeatse/opencv-spm@4.10.0
+- pkg:swift/github.com/yeatse/opencv-spm@4.10.0%2B4
+- pkg:swift/github.com/yeatse/opencv-spm@4.11.0
+- pkg:swift/github.com/yeatse/opencv-spm@4.12.0
+- pkg:swift/github.com/yeatse/opencv-spm@4.6.0
+- pkg:swift/github.com/yeatse/opencv-spm@4.7.0
+- pkg:swift/github.com/yeatse/opencv-spm@4.8.0
+- pkg:swift/github.com/yeatse/opencv-spm@4.8.0%5E%7B%7D
+- pkg:swift/github.com/yeatse/opencv-spm@4.8.0%2B13
+- pkg:swift/github.com/yeatse/opencv-spm@4.8.0%2B7
+- pkg:swift/github.com/yeatse/opencv-spm@4.8.1
+- pkg:swift/github.com/yeatse/opencv-spm@4.9.0
+- pkg:swift/github.com/yeatse/opencv-spm@4.9.0%2B11
+- pkg:swift/github.com/yeatse/opencv-spm@4.9.0%2B14
